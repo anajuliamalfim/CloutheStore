@@ -25,7 +25,7 @@ const produtos = [
     id: 2,
     img: '/public/clothesIMG/azulclaroresort.png',
     nome: 'Azul Claro Resort',
-    tamanho: 'M', //autor
+    tamanho: 'M', 
     preco: 95.90,
     quantidade: 1,
   },

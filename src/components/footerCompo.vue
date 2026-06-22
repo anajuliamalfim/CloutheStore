@@ -2,7 +2,7 @@
     <footer>
         <div class="geral">
             <div class="social">
-                <p>Loja de Roupas</p>
+                <p>Maresia</p>
                 <ul>
                     <li>
                         <a href="#"><img src="../../public/footerIMG/facebook.png" alt=""></a>
@@ -47,7 +47,7 @@
             </div>
         </div>
         <hr>
-        <p class="copyright">&copy; Alguns direitos reservados. Loja de Roupas 2025.</p>
+        <p class="copyright">&copy; Alguns direitos reservados. Maresia 2025.</p>
     </footer>
 </template>
 
